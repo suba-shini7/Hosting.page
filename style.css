@@ -1,0 +1,103 @@
+html,body{
+  width: 100%;
+  height: 100%;
+
+}
+.banner{
+  width: 100%;
+  height:400px;
+ /* background: red;*/
+}
+.btn-primary{
+  background: linear-gradient(  to top right,rgb(68, 183, 239), rgb(7, 97, 141));
+  box-shadow: 5px 5px 5px #aaaaaa;
+}
+.empty{
+  height: 200px;
+}
+.banner3{
+  width: 100%;
+  height:300px;
+}
+.emptys{
+  height: 50px;
+}
+.banner4{
+   width: 100%;
+  height:800px;
+  background:   linear-gradient(  to top right,rgb(68, 183, 239), #2495ff);
+}
+.c{
+  height: 550px;
+  background: white;
+  border-radius: 10px;
+}
+.cld:hover{
+background:  rgb(210, 210, 210);
+}
+.banner5{
+  height: 300px;
+}
+.rate{
+  width: 200px;
+  height: 40px;
+}
+.f{
+   background: rgba(170, 169, 169,0.1);
+ border:1px solid rgba(210, 210, 210,0.7);
+ border-color: rgb(210, 210, 210);
+
+}
+.cf{
+  color: white;
+}
+.actives{
+  box-shadow:5px 5px 5px #aaaaaa ;
+  background: white;
+}
+.f:hover{
+  background: white;
+}
+.actives:hover{
+  background: rgba(170, 169, 169,0.1);
+}
+
+/*7 th part */
+
+
+.banner6{
+  height: 300px;
+  background:   linear-gradient(  to top right,rgb(68, 183, 239), #2495ff);
+}
+.banner7{
+  height: 200px;
+}
+.g{
+  height: 200px;
+  /*background: blue;*/
+}
+.list-group-item{
+  border: none;
+}
+.ban{
+  height: 100px;
+  /*background: red;*/
+}
+.fot{
+  border: none;
+  background: none;
+}
+.rbtn{
+  width: 200px;
+  height: 40px;
+}
+.ban6{
+  color: white;
+}
+.round{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border:1px solid rgba(210, 210, 210,0.7);
+ border-color: rgb(210, 210, 210);
+}
